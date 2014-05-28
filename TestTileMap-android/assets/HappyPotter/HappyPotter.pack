@@ -1,0 +1,193 @@
+HappyPotter.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+32_flagstone_tiles
+  rotate: false
+  xy: 712, 546
+  size: 339, 339
+  orig: 339, 339
+  offset: 0, 0
+  index: -1
+BannerPreview2.2
+  rotate: false
+  xy: 1053, 837
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+BannerPreview2
+  rotate: false
+  xy: 1068, 1692
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+ShortStairs
+  rotate: false
+  xy: 712, 887
+  size: 320, 176
+  orig: 320, 176
+  offset: 0, 0
+  index: -1
+TileObjectsRubbleWalls1
+  rotate: false
+  xy: 64, 546
+  size: 646, 535
+  orig: 646, 535
+  offset: 0, 0
+  index: -1
+bookcaserender2
+  rotate: false
+  xy: 994, 296
+  size: 242, 218
+  orig: 242, 218
+  offset: 0, 0
+  index: -1
+chair_2zoom
+  rotate: false
+  xy: 64, 64
+  size: 928, 480
+  orig: 928, 480
+  offset: 0, 0
+  index: -1
+dungeon_stairs.2
+  rotate: false
+  xy: 994, 64
+  size: 294, 230
+  orig: 294, 230
+  offset: 0, 0
+  index: -1
+golem_swap
+  rotate: false
+  xy: 1073, 1402
+  size: 199, 178
+  orig: 199, 178
+  offset: 0, 0
+  index: -1
+grassland_tiles
+  rotate: false
+  xy: 64, 1836
+  size: 1261, 112
+  orig: 1261, 112
+  offset: 0, 0
+  index: -1
+greenbook.png.1
+  rotate: false
+  xy: 702, 1761
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+picturecollage1.3
+  rotate: false
+  xy: 1053, 516
+  size: 201, 319
+  orig: 201, 319
+  offset: 0, 0
+  index: -1
+pictureframehp1
+  rotate: false
+  xy: 900, 1402
+  size: 171, 259
+  orig: 171, 259
+  offset: 0, 0
+  index: -1
+pictureframehp3
+  rotate: false
+  xy: 892, 1065
+  size: 374, 335
+  orig: 374, 335
+  offset: 0, 0
+  index: -1
+potions_preview.1.2
+  rotate: false
+  xy: 1231, 937
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+potions_preview.1
+  rotate: false
+  xy: 1140, 971
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+potions_render.2
+  rotate: false
+  xy: 1187, 837
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+potions_render.png.1.2
+  rotate: false
+  xy: 900, 1663
+  size: 166, 114
+  orig: 166, 114
+  offset: 0, 0
+  index: -1
+purplebook.png.1
+  rotate: false
+  xy: 604, 1761
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+redbook.png.1
+  rotate: false
+  xy: 506, 1761
+  size: 96, 73
+  orig: 96, 73
+  offset: 0, 0
+  index: -1
+serpent wand
+  rotate: false
+  xy: 1034, 971
+  size: 104, 83
+  orig: 104, 83
+  offset: 0, 0
+  index: -1
+table-dinnerzoom
+  rotate: false
+  xy: 64, 1483
+  size: 440, 351
+  orig: 440, 351
+  offset: 0, 0
+  index: -1
+table-dinnerzoom2
+  rotate: false
+  xy: 64, 1083
+  size: 432, 398
+  orig: 432, 398
+  offset: 0, 0
+  index: -1
+table.1
+  rotate: false
+  xy: 506, 1422
+  size: 392, 337
+  orig: 392, 337
+  offset: 0, 0
+  index: -1
+table.2
+  rotate: false
+  xy: 498, 1083
+  size: 392, 337
+  orig: 392, 337
+  offset: 0, 0
+  index: -1
+torch
+  rotate: false
+  xy: 1223, 1582
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+treasurechest
+  rotate: false
+  xy: 1073, 1582
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,264 @@
+
+Wizzard.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+s1
+  rotate: false
+  xy: 1, 66
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 1, 1
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+w4
+  rotate: false
+  xy: 37, 1
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+w8
+  rotate: false
+  xy: 41, 66
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+e5
+  rotate: false
+  xy: 73, 1
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+e6
+  rotate: false
+  xy: 81, 66
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+s6
+  rotate: false
+  xy: 108, 1
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+n8
+  rotate: false
+  xy: 120, 66
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+w5
+  rotate: false
+  xy: 142, 1
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+s8
+  rotate: false
+  xy: 159, 66
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+e1
+  rotate: false
+  xy: 176, 1
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 196, 66
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 233, 68
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 273, 68
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 313, 68
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+s0
+  rotate: false
+  xy: 353, 65
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+w0
+  rotate: false
+  xy: 207, 1
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+n1
+  rotate: false
+  xy: 390, 65
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 425, 66
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 244, 1
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 461, 67
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 495, 68
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+w7
+  rotate: false
+  xy: 529, 68
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+e0
+  rotate: false
+  xy: 276, 1
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+n5
+  rotate: false
+  xy: 306, 2
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+n0
+  rotate: false
+  xy: 337, 1
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+n4
+  rotate: false
+  xy: 366, 1
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+e3
+  rotate: false
+  xy: 394, 2
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 563, 69
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+w6
+  rotate: false
+  xy: 596, 69
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 629, 66
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+e7
+  rotate: false
+  xy: 659, 66
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+n2
+  rotate: false
+  xy: 689, 66
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+n6
+  rotate: false
+  xy: 719, 66
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+n7
+  rotate: false
+  xy: 749, 66
+  size: 27, 61
+  orig: 27, 61
+  offset: 0, 0
+  index: -1
+e8
+  rotate: false
+  xy: 778, 66
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
+n3
+  rotate: false
+  xy: 805, 66
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
